@@ -103,7 +103,7 @@
                                         <input type="hidden" id="bank" name="bank" value="BSI">
                                     </div>
                                     <div class="flex items-center justify-between">
-                                        <span class="text-sm text-[#66697A]">Account Number</span>
+                                        <span class="text-sm text-[#66697A]">Nomor Rekening</span>
                                         <span class="font-semibold text-sm">7149924889</span>
                                         <input type="hidden" id="number" name="number" value="7149924889">
                                     </div>

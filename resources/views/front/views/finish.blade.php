@@ -5,7 +5,7 @@
         class="max-w-[640px] w-full min-h-screen mx-auto flex flex-col bg-[#FCF7F1] overflow-x-hidden items-center justify-center px-6 py-[100px]">
         <div class="flex flex-col gap-1 text-center">
 
-            <p class="font-extrabold text-[48px] leading-[72px] text-[#76AE43]">Donasi Sukses
+            <p class="font-extrabold text-[48px] leading-[72px] text-[#76AE43]">Donasi Berhasil
             <h1 class="font-bold text-[24px] leading-[36px]">Terima kasih atas donasi yang diberikan.</h1>
 
             </p>

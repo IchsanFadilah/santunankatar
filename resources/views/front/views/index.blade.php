@@ -18,12 +18,12 @@
                 </a> --}}
             </nav>
             <div class="mt-[30px] z-10">
-                <h1 class="font-extrabold text-2xl leading-[36px] text-slate-900 text-center">
+                {{-- <h1 class="font-extrabold text-2xl leading-[36px] text-slate-900 text-center">
                     Berkah dengan Sedekah<br>Berbagi
-                    Kebahagiaan.</h1>
+                    Kebahagiaan.</h1> --}}
             </div>
             <div class="w-full h-fit overflow-hidden -mt-[33px]">
-                <img src="{{ asset('assets/images/backgrounds/hero-background.png') }}" class="w-full h-full object-contain"
+                <img src="{{ asset('assets/images/backgrounds/hero-berkah.png') }}" class="w-full h-full object-contain"
                     alt="background">
             </div>
         </div>
